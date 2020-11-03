@@ -1,2 +1,2 @@
 # StateLess-ReactHooks
-Function Component of React Hooks.
+Function Component (Stateless) React Hooks.
